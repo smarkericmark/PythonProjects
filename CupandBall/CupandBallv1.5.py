@@ -5,6 +5,9 @@
 # Allows betting and tracking of users bet
 # When the user runs out of money the program terminates
 # To test comment out line 181 to turn off randomizer
+# Cleaned up the code
+# Final Version for now. 
+
 
 
 #Used to randomize where the red ball is
