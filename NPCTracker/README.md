@@ -1,7 +1,7 @@
-An NPC Tracker I am working to learn
+An NPC Tracker I am working to learn:
 
-How to build python programs as an .exe file
-How to make them interact with a database
-Version Control with git hub
+1) How to build python programs as an .exe file
+2) How to make them interact with a database
+3) Version Control with git hub
 
-All the sample stats used in the database is published under Open-Gaming License (OGL) 
+All the sample stats used in the database are published under Wizards of the Coast Open-Gaming License (OGL) 
