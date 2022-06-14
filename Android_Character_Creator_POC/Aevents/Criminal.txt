@@ -1,0 +1,20 @@
+A stranger visited your home and spoke in hushed tones with a family member. What did they talk about? Gain a Contact. Gain the Trademark(-):Shady Past
+You said “yes” and someone you cared about got hurt. Gain the Trademark(-):Weak Willed
+After someone close to you was murdered, your family confessed to you that they were deeply involved in a criminal conspiracy. Gain the Trademark(-):Usual Suspect
+You got mixed up with the wrong people and were involved in a serious crime. You spend time in jail before starting your career. Gain the Trademark(-):Bad Friends
+You had a terrible childhood accident. Gain the Trademark(-):Nagging Injury
+Someone witnessed you do something terrible. They’ve kept your secret, but they’ve never let you forget it. Gain the Trademark(-):Blackmailed
+You have a relative or godparent with connections. Gain the Trademark(-):Annoying Family Member
+You were awoken in the middle of the night by your parents and told to quickly pack a suitcase. Two days later, you were in a new city with a new name. You defect to a new group. Gain the Trademark(+):True Belever
+What your family did haunts you wherever you go. Gain the Trademark(-):Infamous
+You were kidnapped and tortured. Why? Gain the Trademark(-):Skittish
+When the dust settled, you were the only one left alive. How? And why? Gain the Trademark(-):Sole Survivor
+You became obsessed with underground fighting rings, even trying your luck in a handful of brutal bouts. Increase your earnings by 500. Gain the Trademark(-):Bloodthirsty
+They say that before embarking on a journey of revenge, you should first dig two graves. Clearly, they never met you. That entire organisation is going to pay for what they did. For what they took from you. Gain the Trademark(-):Vendetta <Faction>
+Your parents or guardians were always running from something. Late one night, they told you they loved you, and to run. You haven’t seen them since. Gain the Trademark(-):Missing Family
+You got your first exotic augmentation. It felt better than good: it felt right. Gain any two G-Mods of your Choice and the Trademark(-):Inhuman Appearance
+You always wondered if the struggle was worth it. A better offer came, and you took it; what’s the harm in that? You defect to a new faction. Gain the Trademark(-):Sellout
+You trusted someone, and they burned you—hard. You’re not going to let it happen again. Gain the Trademark(+):Won't Get Fooled Again and the Trademark(-):Trust Issues
+You helped fix a problem for a high-ranking offical in a way that only a rebporbate could. They are forever indebted to you. Gain Contact High Ranking Offcial as a Contact
+Singled out by a high ranking Orgcrime member, you receive a savage, public beating. Did you deserve it? Did you withstand it? Gain the Trademark(-):Troublemaker
+Turns out, the agents watching you weren't suspicious. They were recruiting. Defect to a new group of your choice Gain the Trademark(+):Rising Star

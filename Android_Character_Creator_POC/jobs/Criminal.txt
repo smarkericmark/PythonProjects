@@ -1,0 +1,59 @@
+================
+Criminal       =
+================
+UnemployedCriminalStart
+Small Time Gang Banger
+Extra Muscle
+Warm Body
+Booster
+Drug Pusher
+Fall Guy
+Concubine
+UnemployedCriminalEnd
+
+SoldierCriminalStart
+Ganger
+OrgCrime Goon
+Hitter
+Bag-man
+Collection Specialist
+SoldierCriminalEnd
+
+PilotCriminalStart
+Smugglar
+Street Racer
+Chuffer
+Gun Runner
+Midnight Delivery Driver
+PilotCriminalEnd
+
+RoughneckCriminalStart
+Chop-Shopper
+Modder
+Tech 'Cleaner'
+RoughneckCriminalEnd
+
+NetRunnerCriminalStart
+Hacker
+Data Broker
+Sim Peddler
+NetRunnerCriminalEnd
+
+LeaderCriminalStart
+Gang Leader
+OrgCrime Made Man
+Con-Artist
+Fixer
+LeaderCriminalEnd
+
+MedicalCriminalStart
+Back Ally Docter
+Ripper Doc Reclaimer  
+Mod-Choper
+MedicalCriminalEnd
+
+LawCriminalStart
+Corrupt Cop
+Corrupt Offical
+"Legetimate" Business Person
+LawCriminalEnd

@@ -1,0 +1,112 @@
+=================
+DisenFrancistor=
+===============
+UnemployedStart
+Lab Rat
+Toxic Waste Cleaner
+Scrounger
+Pick Pocket
+Pan Handler
+Drug Addict
+Low Rent Worker
+UnemployedEnd
+
+SoldierStart
+Local Security
+Ganger
+Gorilla Fighter
+Bodyguard
+Terrorist
+SoldierEnd
+
+PilotStart
+Street Racer
+Taxi Driver
+Runner
+Delivery Driver
+PilotEnd
+
+RoughneckStart
+Old-Tech Expert
+Self-Trained Technician
+Illegal Worker
+RoughneckEnd
+
+NetRunnerStart
+Hacker
+NetRunnerEnd
+
+LeaderStart
+Block Leader
+Poverty Activist
+Punk Rocker
+Priest
+LeaderEnd
+
+MedicalStart
+Back Ally Doctor
+Self-Trained Wack Job
+Salavge RipperDoc
+MedicalEnd
+
+LawStart
+Self-Appointed Block Sheriff
+Low Rent Hab Security Guard
+Hobo with a Shotgun
+LawEnd
+
+Criminal
+
+UnemployedCriminalStart
+Lab Rat
+Toxic Waste Cleaner
+Scrounger
+Pick Pocket
+Pan Handler
+Drug Addict
+Low Rent Worker
+UnemployedCriminalEnd
+
+SoldierCriminalStart
+Local Security
+Ganger
+Gorilla Fighter
+Bodyguard
+Terrorist
+SoldierCriminalEnd
+
+PilotCriminalStart
+Street Racer
+Taxi Driver
+Runner
+Delivery Driver
+PilotCriminalEnd
+
+RoughneckCriminalStart
+Old-Tech Expert
+Self-Trained Technician
+Illegal Worker
+RoughneckCriminalEnd
+
+NetRunnerCriminalStart
+Hacker
+NetRunnerCriminalEnd
+
+LeaderCriminalStart
+Block Leader
+Poverty Activist
+Punk Rocker
+Priest
+LeaderCriminalEnd
+
+MedicalCriminalStart
+Back Ally Doctor
+Self-Trained Wack Job
+Salavge RipperDoc
+MedicalCriminalEnd
+
+LawStart
+Self-Appointed Block Sheriff
+Low Rent Hab Security Guard
+Hobo with a Shotgun
+LawEnd

@@ -1,0 +1,150 @@
+Both the authorities and organised crime are hunting for you. What do you know, or what have you got that they want? Gain the Trademark(-):Hunted by everyone
+You are on the run. Who is after you, and why? Gain the Trademark(-):Hunted
+You’ve accrued the enmity of a powerful enemy. They might be a district authority, well-connected ex-lover, or a jealous colleague. Gain the Trademark(-):Persecuted
+An old debt has caught up with you. Who is it to, and what will happen if you do not pay? Gain the Trademark(-):Indebted
+You’re involved in a serious crime. Guilty or not, you are sentenced to hard labour and are fired from your job. Gain the Trademark(-):Criminal Record
+You develop a fierce rivalry with someone in your organisation or faction. Gain the Trademark(-):Unhealthy Rilvary
+You have an affair with someone wealthy, but it ends poorly. Was it your fault? Gain the Trademark(-):Scorned Lover
+You are called in for questioning by the authorities. What do they want to know? They let you go, but on what condition? Gain the Trademark(-):Snitch
+You gain a criminal record. What happened? Are you guilty or innocent? Gain the Trademark(-): Criminal Record
+You are injured in a shooting accident. What were you doing? Who shot you? Gain the Trademark(-):Old Wound
+Someone has been keeping an eye on you. They always seem to be there when you look around. What do you think they are interested in? Who are they? Gain the Trademark(-):Under Surveillance
+You become tangled up in a plot being run by a rival group. What do you do for them? Why do you do it? You are fired. Gain the Trademark(-):Criminal Record
+They are on to you! Who are they and what have you done? Gain the Trademark(-):Paranoia
+Someone you know is a criminal, but you cannot turn them in. What hold do they have over you? Gain the Trademark(-):Blackmailed
+Whatever you did, and it was bad, you’ve paid for it now—but they will not give up. Gain the Trademark(-):Nemesis
+You volunteered to take part in a secret medical experiment which succeeded. Well, almost. Gain the Trademark(-):Immune to Againg
+You are fired. What did you do?
+You are dating a wealthy and generous person. Increase your social status by 2. Gain the Trademark(-): Demanding Lover
+You are forced to evacuate your Home. What is the threat? Where do you have to go? Gain the Trademark(-):Technically Homeless
+You foil some form of nefarious plot on your own (or with the help of your friends). Why didn’t you go to the authorities? Gain the Trademark(-):Nemisis
+You survive a serious natural disaster. Gain the Trademark(-):Nightmares
+You are remembered in the will of a relative. Who died? What were your feelings for them? Increase your social status by 1.
+You help solve a serious crime. Gain the Trademark(+):NAPD owe me one
+You discover that you have a talent for something you’d never considered trying before. What happened? Why do you love it? Gain the Trademark(+): <<Add Talent>>
+You are scouted by an unexpected employer. Increase your social status by 1. 
+You discover that your friend is a traitor working for a rival faction. The authorities request your help in arresting them.
+Your lucky day! Something paid off—a lottery ticket, a risky business venture, or a hard-won contract. Increase your social status by 2
+You save someone important from a terrible accident. Gain the Trademark(+):Life Debt
+You achieve notoriety or fame as a minor net star. Gain the Trademark(+):Minor Celebrity
+A pseudo-AI personality you’ve had since childhood begins to degrade, but you can’t bear to part with it. Gain the Trademark(-):Failing AI Friend
+You join a new religion. What prompted your conversion? What article of faith is most important to you in your new belief? Gain the Trademark(-): Converted
+You volunteered to take part in a secret medical experiment that succeeded. Well, almost. Gain a G-Mod of your choice.
+A co-worker frames you for something they did. You are fired.
+A family member tells you a dark family secret. What has been hidden from you for all these years? Trademark(-):Dark Family Secret
+You receive exotic cosmetic surgery. What do you look like now? Do you have tapered ears? Lizard scales? A prehensile tail? Trademark(-):Radical Appearance (Cosmetic Augmentation)
+The building you call home burns down. Trademark(-): Homeless
+Your employer hits a slump and is struggling to make ends meet. Decrease your social status by 1
+You’re betrayed by someone you trust. Who was it? What did they do to you? Trademark(-):Untrusting
+You get enrolled in an advanced training program (possibly experimental or cybernetic in nature). Gain a G-Mod of your choosing 
+You are recruited or selected to travel to a different planet in order to continue your career. Gain the Trademark(+):Zero-G Training
+Your family is in desperate financial need and they come to you for help. How bad is it and how did they get into this situation? Decrease your social status by 1.
+You are sent out into the field as a roving specialist (either in person or through immersive VR). Where do you go? What do you experience?" Trademark(+):Well Travelled
+A family member is murdered. Who was killed? Do you know who did it? And, if so, why? Trademark(-):Thirst for Vengence
+You are one of the only survivors when a ship you were travelling on broke down or crashed, and rescue was a long time coming. Trademark(-):Surviors Guilt
+You earn a big promotion. Increase your social status by 1.
+Your childhood friend moves back home. It’s great to see them again, but they’re acting strangely. Trademark(-):Friend in need
+You thought that you’d gotten away with the crime you committed ten years ago, but new evidence has been discovered. Trademark(-):Criminal Record
+Due to what’s claimed to be a clerical error, your stored personality/DNA backup is placed in a Clone. Your IQ-doppelgänger disappears before the error can be corrected. Trademark(-):Doppelgänger 
+You volunteered to take part in a secret medical experiment. Despite promising results it is considered a failure. Gain a G-Mod.
+You show up for work one day and your employer is gone. The office is empty. Nobody is there. What happened? Trademark(-):Surrounded by Conspiracy
+Your Firewall is infected with invasive advertisements that pop up at the worst times. Gain the Trademark(-):Pop-Ups
+Your body required extensive—and expensive—repairs. Gain the Trademark(-):Un-crippling Debt
+A glitch in your memories won’t go away. It seems you’ve lived more then one life. Gain the Trademark(-):Redacted Memories
+Following a routine cyberware upgrade, you awake with memories that aren’t your own. Gain a new piece of cyberware. Gain the Trademark(-):Ghost in the Machine
+During a routine brain scan, you awake to find that your memories were placed in a Bio-Roid. Your doppelgänger disappeared before this could be corrected. Gain the Trademark(-): Bio-Roid Doppelgänger
+Your sharp eyes and quick thinking save the life of a prominent figure. Gain a contact (High Ranking Govt Offical).
+You arrive for work, to find nothing there, and are unable to contact any of your former co-workers. The Corp is not forthcoming on why. You are fired. Trademark(-):Surrounded by Conspiracy
+Amidst a scandal, you wind up on the chopping block. What, if anything, did you have to do with this fiasco? You are fired.
+Someone close to you is a criminal, but you can’t bring yourself to turn them in. Why not? Gain a contact (Criminal). Gain the Trademark(-):Dirty Secret
+You foiled an elaborate hacking attempt before it got off the ground. Gain the Trademark(-):Hated by Black Hats
+You volunteered to take part in a secret medical experiment. Gain the Trademark(+): Immune to Extreme Weather
+A MegaCorp decided that you’re best used in a different position, and opened doors accordingly. Increase your social status by 2.
+One of the MegaCorps routine calculations determines that you’re unsuited to your current position. You are fired.
+Government Agents bring you in for questioning. What do they want to know? They let you go, but under what condition? Gain the Trademark(-): On the Watchlist
+An Ganger attack demolishes your place of business, leaving it in shambles. Gain the Trademark(-):Harried.
+When everything went to hell, through sheer stubbornness, you somehow kept it together. Gain the Trademark(+): True Grit
+You save a tourist from a horrible fate. Gain a contact (Upper Class Citizen).
+You agree to let some Blackmarket Ripperdoc “friends” install some Cyberware for you. This goes shockingly well. Gain a new piece of cyberware.
+You agree to let some Blackmarket Ripperdoc “friends” install some Cyberware for you. Unsurprisingly, this ends poorly. Gain a new piece of cyberware. Gain the Trademark(-): Glitchy Cyberware
+You grow close to a famous sports star. What’s the nature of your relationship? Gain the Trademark(+):Famous Friend 
+Someone you were close to dies in an attack. Who was behind it? And what do you plan to do about it? Gain the Trademark(-): Hate<<Add Faction>>
+A disaster occurs; you grit your teeth and keep going. Gain the Trademark(-):True Grit
+You are scouted by an unlikely employer. Increase your social status by 1
+You are fired. What did you do, and why was it worth it?
+An old mentor puts in a good word for you. Were there strings attached? Increase your social status by 1. Gain a contact (Mentor). Gain the Trademark(+):Connected Mentor
+MegaCorp Agents bring you in for questioning. What do they want to know? They let you go, but under what condition? Gain the Trademark(-):On the Watchlist
+You stepped in to mediate a conflict before it turned violent. Gain the Trademark(+):Calming Presence
+During a midnight visit to a coffeehouse, you played a competitive game of chess with a kindly older man. As he leaves, the barista looks like they’ve seen a ghost. Gain a contact (MegaCorp Senior Exec). Gain the Trademark(+):Strategic.
+You spend so much travelling and living in small temporary spaces, everywhere starts to feel like home. Gain the Trademark(+):Nomadic Spirit
+You embrace the faiths teachings wholeheartedly. Some would say a little too much. Gain the Trademark(-):Zealot
+You’re caught in the middle of a three-way grey market espionage tangle; someone needs to take the fall. You are fired.
+A Ristie bequeaths you a portion of their wealth. Are you related? If not, why have they chosen you? Increase your social status by 2. Gain the Trademark(+): Benefactor
+You volunteered for experimental medical treatments. They went well. Gain a G-Mod.
+You volunteered for experimental medical treatments. They went badly. Gain a G-Mod. Gain the Trademark(-):Scorched Immune System
+You are fired. What did you do? Why did you feel you had to do it?
+Mercs wind up on different sides of a conflict all the time. It’s nothing personal. But you keep seeing the same face again and again. Trademark(-):Hunted by Nemesis
+You’re supposed to keep your hands to yourself, but this job made it impossible. Increase your social status by 1. Gain the Trademark(-):Red Flag
+Desperate to keep up with your peers, you cut a deal to get some bleeding edge tech on the cheap. Various advertisements get past your firewalls, and you can’t turn it off. Gain the Trademark(-):Invasive Adware
+While getting drinks with your company, a brawl breaks out. Everybody enjoys it so much, that it becomes a semi-regular outing, getting you banned from bars, clubs, and houses of worship across the City. Gain the Trademark(-):Known Troublemaker
+Waxing nostalgic about your childhood, you return to your old neighbourhood to find it in dire straits. Warm memories are chased away by old acquaintances looking for a handout. Gain the Trademark(-):Sellout
+You were just following orders. Nothing you could have done. At least, that’s what you tell yourself when the nightmares keep you awake at night. Gain the Trademark(-):Haunted
+You win some, you lose some. Well, you just lost a big one in decisive fashion, and you’ll be picking up the pieces for a while. Decrease your social status by 2. Gain the Trademark(-):Life in Shambles
+Your client had strict rules in place for the job, with a zero-tolerance policy. Yet you broke them anyway, costing you the gig. Why? You are fired. Gain the Trademark(-):Red Flag
+It was just another skirmish. But this time, your friends didn’t make it through. Gain the Trademark(-):Sole Survivor
+The client couldn’t pay what they were supposed to, but at least they tried to make it up to you with supplies. Gain the Trademark(+):Weapons Cache
+During an attack, you wind up saving a VIP’s skin. Needless to say, it leaves a big impression on them. Gain a contact (Upper Class MegaCorp Exec). 
+Orders are orders. Civilian safety wasn’t part of the mission objectives, and you weren’t getting paid to be a hero. But even knowing the consequences, you still broke ranks to get them to safety. Gain a contact who will remember what you did. Gain the Trademark(-):Hero of the people
+If it can go wrong it will, right? Well, it just did, in spectacular fashion. With luck like this, you might legitimately be cursed. Gain the Trademark(-):Wrong Place, Wrong Time
+Nobody planned for you to be in charge. Then again, the people in charge didn’t plan to get shot, either. Still, you carried the day. Increase your social status by 1.
+A contact you'd previously worked with offers a share of their take to let them crash with you for a week. It seemed too good to be true. When a Bounty Hunter kicked in the door, you realized it was. Spend time in Jail. You are fired. Gain the Trademark(-):Criminal Record
+A MegaCorp talent scout approaches you with an offer they hope you can’t refuse. Increase your social status by 1.
+Your client omitted some information, and the job went bad. Of course, you got saddled with the blame. You are fired.
+An old contact from the Black Market into an experimental program after the first test subjects found the risks. Most of them. Gain a contact (RipperDoc). Gain a new piece of cyberware.
+While on assignment, a MegaCorp purchases a controlling interest in your client, resulting in mass layoffs. You’re in the process of organising a noisy response when an executive approaches you with a juicy offer that you can't refuse. Increase your social status by 1. Gain the Trademark(+): Sellout
+Someone looking exactly like you crashes through a window, accuses you of stealing their identity, and opens fire. After they’re chased off, you receive a notice: the Jinteki Doctor who handle your last round of blood work has disappeared. Gain the Trademark(-):Doppelgänger
+Coming back from a job, your pilot has a medical emergency, and you get shoved into the cockpit. It was certainly a learning experience. Gain the Trademark(+): Nerves of Steel
+During some routine external repairs on the Beanstalk, a sudden impact knocked you and your fellows loose. Your quick thinking managed to save some but not all of the crew. How did you choose? Gain a contact who owes you their life. Gain the Trademark(-):Couldn't save 'em all
+You’re involved in spreading a meme virus through the Net. A MegaCorp watchdog thanks you for your contributions with a quantronic virus of its own. Gain the Trademark(-):Corrupted Firewall
+When your ship was damaged in orbit, everyone looked to you to make the zero-G repairs. Gain the Trademark(+):Zero-G Expert.
+Whether in salvage, falling off the back of a truck, or other means, you find a perfectly good case of high-tech weapons just lying around. Increase your social status by 1
+After a workplace accident leaves you hospitalised, you opt to get some structural reinforcement. Gain a new piece of cyberware.
+The good news is that experimental brain surgery managed to remove all the shrapnel. The bad news is that some of your synapses are firing a little slower. The worse news is that you had shrapnel in your brain; how’d it get there? Gain the Trademark(-):Headaches
+You met the love of your life. But over time, you’ve come to suspect that they’re a clone on a secret mission. Do you confront them? Gain the Trademark(-):Lover with a secret
+You find yourself caught up in a controversy. A talented lawyer can help, but it won’t be cheap. Gain the Trademark(-):Mounting Legal Debt
+A hobby invention of yours becomes a brief fad. Increase your social status by 1.
+You strongly disagree with your supervisor, and in grand tradition, express this by punching them in the face. You are fired.
+Some of your investments pay off. Increase your social status by 1.
+You bet it all on a risky investment and lose almost everything. Decrease your social status by 2. Gain the Trademark(-):Gambling Addiction
+Government Agents bring you in for questioning. What do they want to know? They let you go, but under what condition? Gain the Trademark(-): Suspected Snitch
+You invest in some high-risk stocks. Increase your social status by 1.
+You invest in some high-risk stocks. Decrease your social status by 1.
+You invest in some high-risk stocks. Increase your social status by 2.
+You invest in some high-risk stocks. Decrease your social status by 2.
+Some old Net post of yours goes viral overnight. Gain the Trademark(+):Fringe Celebrity
+Pitting rival employers against each other costs you your job but opens some doors. You are fired. Increase your social status by 2.
+Circumstances converge to put you at the helm of a spaceship. What brought this on? Gain the Trademark(+):Born behind the wheel
+You arrive for work to find nothing. It’s as though your employer never existed. You are fired. Gain the Trademark(-):Left in the Dark
+You developed an obsession with a professional sports team. As go their fortunes, so go your moods. Gain the Trademark(-):Sports Obsession
+A MegaCorp agent visits your employer. The next day, your employee access has been revoked. What happened? You are fired. Gain the Trademark(-):Unknown Enemy
+Someone close to you is a wanted criminal, but you can’t bring yourself to turn them in. Why not? Gain the Trademark(-):Dirty Little Secret
+You foiled an act of espionage against your employer and are rewared accordingly. Increase your social status by 1. Gain the Trademark(-):Dangerously Curious  
+You are fired. What did you do, and why was it worth it?
+You are scouted by an unlikely employer. Increase your social status by 1
+Some old Net posts of yours get the wrong kind of attention before you can delete them. You are fired.
+You competed in a martial arts tournament. The competition was fierce, and the medical care was iffy at best. Gain the Trademark(-):Lasting Injuries
+On their way to meet with you, your contact is killed in a riot started by ???????. Gain the Trademark(-):Watched by Ninjas
+You speak out against your supervisor. You were right; they were well-connected. You are fired.
+You signed up for a medical trial and got some unexpected effects— for the better! Gain the Trademark(+):Better Than Ever
+You were made aware of your company’s illicit activities and agreed to keep their secret — for a cut of the profit. They’re keeping their word…for now. Increase your social status by 1. Gain the Trademark(-):Rival
+You were good at your job, but someone needed a scapegoat. They threw you under the bus. You are Fired
+You have distinct memories of having a spouse and children, yet no one else around you remembers that or can verify. What happened to them? Were they ever real? Gain the Trademark(-):Someone’s Hiding Something
+You were at work, standing right by one of your workplace rivals when you fell — or were you pushed?? — down some stairs. Gain Trademark(-):Suspicious
+You discovered an eavesdropping mechanism in your office. What was it set up to overhear? Who might want the information you have? Gain the Trademark(-):Under Surveillance
+You signed up for a medical trial and got some unexpected effects— for the worse. Although the Corp paid to have the physical damage reversed...you still remember. Gain the Trademark(-):Doctor-Shy.
+A package arrived at your workplace when only you were there to sign for it. It contained a weird piece of technology you’d never seen. You decided to keep it. Gain the Trademark(+): Mysterious Item
+You fell in love with a co-worker and got married. Gain a contact (partner) You stole something from work. They got it back, and you are fired.
+The MegaCorp division you worked for went bankrupt. You were the only one who got transferred to a new, similar team. Your experience gave you a leg up! Increase your social status by 1.
+When your boss made a very public, social gaffe, you were there to save the day. Gain a contact (Former Boss).
+Your hard work has paid off. You are Employee of the Month, multiple months running! Increase your social status by 2. Gain the Trademark(+):Dependable.
+You were just doing your job when you caught the eye of a famour photographer. They plucked you from your old job and now you’re a model for their newest luxury lines. Your face is everywhere. Gain the Trademark(+): Hey, Aren’t You…?

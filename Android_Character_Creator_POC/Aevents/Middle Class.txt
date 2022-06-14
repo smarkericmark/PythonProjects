@@ -1,0 +1,18 @@
+You ran away from home. Decrease your Social Status by 1. Gain the Trademark(-):Low Self-Esteem.
+You were taken from your home at 4am. You heard shots and never saw your family again. Decrease your Social Status by one. Gain the Trademark(-):Lost Family
+"Volunteering for “human tests” seemed like easy money. The physical scars healed, but you’ve never really learned to control your new “gift”. Gain any G-Mod or Cyberware augmentation. Gain the Trademark(-):Rogue MetaChemistry
+You joined a dark web hacker group and became obsessed with the infowarrior subculture. Gain the Trademark(-):Neophile
+When you first signed up for school, a network glitch merged all of your records with someone else who shares your exact name. Your digital footprints have never been fully untangled. Gain the Trademark(-):Confused Identity
+"Either you or your partner became pregnant. Gain a $30,000 debt. Gain the Trademark(-):Dependent
+You spent a summer painstakingly restoring a classic car. Gain the Trademark(-):Nostalgia Freak
+It can be argued that the accident wasn’t your fault, but the courts didn’t see it that way. Gain a $10,000 debt. Gain the Trademark(-):Careless"
+"Your best friend joined the military. And then he was killed. You realised all this corporate jingoism doesn’t make any sense. Gain the Trademark(+):Judicious
+You suffered a terrible childhood accident. Gain the Trademark(-):Nagging Injury
+While training for different career paths, you destroyed a small mountain of equipment. Gain a $25,000 credtit debt. Gain the Trademark(-):Bull in a China Shop.
+Disaster struck, but it narrowly missed you as a Rescue Worker dragged you to safety. Gain the Trademark(-):Hero Worship
+Even though it cost you most of your friends, you stood by your beliefs. Gain the Trademark(-):Stubborn
+Maybe you knew what you were getting into, maybe not; either way, you were caught helping a augmentation smuggling ring, and the authorities were not amused. Spend time in jail. Gain the Trademark(-): Criminal Record.
+While snooping in cyberspace, you witnessed a serious hack. What happened? Who was responsible? Gain the Trademark(-):Paranoid
+Your insightful nature attracts the attention of a high profile Jinteki researcher. Gain them as a contact. Gain the Trademark(-):Free Spirit
+Your aunt was a top Merc in her time. When she decided to retire to an office, she left you access to her armory. Gain the Trademark(+): Armory Access
+Enamoured with heroic tales of masked vigilantes, you tried your hand at crime fighting...or, as the courts called it, "reckless vigilantism." Time in jail did little to cool you off, however: now the crooks couldn't get away. Gain the Trademark(-):Loose Cannon

@@ -1,0 +1,130 @@
+=================
+Middle Class=
+===============
+UnemployedStart
+Unskilled Labourer
+Resturant Working
+Trash Collector
+Cleaning Staff
+Window Washer
+Store Clerk
+Bar Tender
+Basement Dweller
+UnemployedEnd
+
+UnemployedCriminalStart
+Unskilled Labourer
+Resturant Working
+Trash Collector
+Cleaning Staff
+Window Washer
+Store Clerk
+Bar Tender
+Basement Dweller
+UnemployedCriminalEnd
+
+SoldierStart
+Military Soldier 
+Corp Security Guard
+BodyGuard
+Bounty Hunter
+SoldierEnd
+
+SoldierCriminalStart
+BodyGuard
+Gun for Hire
+Bouncer
+Bounty Hunter
+SoldierCriminalEnd
+
+PilotStart
+Street Racer
+Taxi Driver
+Corp Delivery Driver
+Chuffer
+Dropship pilot in Training
+PilotEnd
+
+PilotCriminalStart
+Street Racer
+Combat Taxi Driver
+Runner
+Delivery Driver
+Smuggler
+PilotCriminalEnd
+
+RoughneckStart
+Master Roughneck
+Beanstock Yard Worker
+Union Worker
+Zero-G Construction Worker
+RoughneckEnd
+
+RoughneckCriminalStart
+Master Roughneck
+Beanstock Yard Worker
+Union Worker
+RoughneckCriminalEnd
+
+NetRunnerStart
+Corp SysOps Junior
+White Hat Hacker
+Black Hat Hacker
+NetRunnerEnd
+
+NetRunnerStart
+Hacker
+White Hat Hacker
+Black Hat Hacker
+NetRunnerEnd
+
+NetRunnerCriminalStart
+Hacker
+White Hat Hacker
+Black Hat Hacker
+NetRunnerCriminalEnd
+
+LeaderStart
+Business Owner
+Famous Punk Rocker 
+Forman 
+PMC Squad Commander
+Reporter
+Priest
+LeaderEnd
+
+LeaderCriminalStart
+Business Owner
+Famous Punk Rocker 
+Roughneck Foreman 
+Priest
+LeaderCriminalEnd
+
+MedicalStart
+Vet
+Doctor Pre-Grad
+RipperDoc
+Nurse
+Emergancy Responder
+MedicalEnd
+
+MedicalCriminalStart
+Back Ally Doctor
+Self-Trained Ripper Doc
+MedicalCriminalEnd
+
+LawStart
+NAPD Detective
+Corp Security Guard
+Corp Internal Investigator
+LawEnd
+
+LawCriminalStart
+Private Investigator
+NAPD Informant
+LawCriminalEnd
+
+CompanyStart
+Junior Executive
+Office Drone
+CompanyEnd

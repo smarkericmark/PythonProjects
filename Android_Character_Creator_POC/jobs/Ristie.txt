@@ -1,0 +1,127 @@
+=================
+Upper Class=
+===============
+UnemployedStart
+Trustfunder
+Globe Trotter
+"Pro"-Gamer
+Club Promoter
+Trust Punk
+Person of Leisure
+Nepotism Job
+UnemployedEnd
+
+UnemployedCriminalStart
+Trustfunder
+Globe Trotter
+"Pro"-Gamer
+Club Promoter
+Trust Punk
+Person of Leisure
+Nepotism Job
+UnemployedCriminalEnd
+
+SoldierStart
+MegaCorp Black Ops
+Ristie Cleaner
+Game Hunter
+Marksman
+SoldierEnd
+
+SoldierCriminalStart
+BodyGuard
+Gun for Hire
+Bouncer
+Bounty Hunter
+Game Hunter
+SoldierCriminalEnd
+
+PilotStart
+Street Racer
+Professional Racer
+Combat Pilot
+Dropship Pilot
+PilotEnd
+
+PilotCriminalStart
+Street Racer
+Combat Taxi Driver
+Runner
+Delivery Driver
+Smuggler
+PilotCriminalEnd
+
+RoughneckStart
+Aerospace Engineer
+He-3 Engineer
+Master Engineer
+Zero-G OnSite Engineer
+RoughneckEnd
+
+RoughneckCriminalStart
+Master Roughneck
+Beanstock Yard Worker
+Union Worker
+RoughneckCriminalEnd
+
+NetRunnerStart
+MegaCorp SysOps
+White Hat Hacker
+Black Hat Hacker
+NetRunnerEnd
+
+NetRunnerCriminalStart
+Hacker
+White Hat Hacker
+Black Hat Hacker
+NetRunnerCriminalEnd
+
+LeaderStart
+Celebrity
+Rock Star
+Politician
+Diplomat
+Influencer
+LeaderEnd
+
+LeaderCriminalStart
+Celebrity
+Rock Star
+Influencer
+LeaderCriminalEnd
+
+MedicalStart
+Doctor
+Surgeon
+G-Mod Implementation Spcialist
+Biomedical Engineer
+Chemical Engineer
+MedicalEnd
+
+MedicalCriminalStart
+Back Ally Doctor
+Self-Trained Ripper Doc
+Mad-Scientist
+MedicalCriminalEnd
+
+LawStart
+Government Agent
+MegaCorp Internal Investigator
+Assistant District Attorny
+Lawyer
+Judge
+LawEnd
+
+LawCriminalStart
+Private Investigator
+NAPD Informant
+LawCriminalEnd
+
+CompanyStart
+Executive
+Company Agent
+Talent Manager
+Acquisition Apecialist
+Account Manager
+Product Owner
+CompanyEnd

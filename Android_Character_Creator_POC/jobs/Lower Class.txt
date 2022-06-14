@@ -1,0 +1,115 @@
+=================
+Lower Class=
+===============
+UnemployedStart
+Unskilled Labourer
+Resturant Working
+Trash Collector
+Cleaning Staff
+Window Washer
+Store Clerk
+Bar Tender
+UnemployedEnd
+
+UnemployedCriminalStart
+Unskilled Labourer
+Resturant Working
+Trash Collector
+Cleaning Staff
+Window Washer
+Store Clerk
+Bar Tender
+UnemployedCriminalEnd
+
+SoldierStart
+Military Grunt
+Entry Level Corp Security
+BodyGuard
+Bouncer
+Bounty Hunter
+SoldierEnd
+
+SoldierCriminalStart
+BodyGuard
+Gun for Hire
+Bouncer
+Bounty Hunter
+SoldierCriminalEnd
+
+PilotStart
+Street Racer
+Taxi Driver
+Runner
+Corp Delivery Driver
+PilotEnd
+
+PilotCriminalStart
+Street Racer
+Combat Taxi Driver
+Runner
+Delivery Driver
+PilotCriminalEnd
+
+RoughneckStart
+Journeyman Roughneck
+Stock Yard Worker
+Construction Worker
+RoughneckEnd
+
+RoughneckCriminalStart
+Journeyman Roughneck
+Stock Yard Worker
+Construction Worker
+RoughneckCriminalEnd
+
+NetRunnerStart
+Corp SysOps Intern
+White Hat Hacker
+Black Hat Hacker
+NetRunnerEnd
+
+NetRunnerCriminalStart
+Hacker
+White Hat Hacker
+Black Hat Hacker
+NetRunnerCriminalEnd
+
+LeaderStart
+Block Leader
+Poverty Activist
+Punk Rocker
+Priest
+LeaderEnd
+
+LeaderCriminalStart
+Block Leader
+Poverty Activist
+Punk Rocker
+Priest
+LeaderCriminalEnd
+
+MedicalStart
+Vet
+RipperDoc In Training
+Back Ally Doctor
+Self-Trained Raipper Doc
+Nurse
+Crime Scene Cleaner/Salvager
+MedicalEnd
+
+MedicalCriminalStart
+Back Ally Doctor
+Self-Trained Raipper Doc
+MedicalCriminalEnd
+
+LawStart
+NAPD Beat Cop
+Corp Security Guard Entry-Level
+Private Investigator
+LawEnd
+
+LawCriminalStart
+Private Investigator
+NAPD Informant
+LawCriminalEnd
+

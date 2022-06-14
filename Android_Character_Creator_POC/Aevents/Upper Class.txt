@@ -1,0 +1,18 @@
+You went with a sibling to a hiring event. They were looking to be hired, you were not. So, when they offered you a position but not your sibling, it caused familial strife. Gain the Trademark(-):Rival Sibling
+Your father broke himself on the corporate ladder, working too long, too hard, and for too little thanks. You signed up and got hired — and now you will have your vengeance. How will that vengeance take shape? Is it vengeance against one person? One branch? Or the whole company? Gain the Trademark(-):Rage agains the MegaCorps
+You know where you want to be. You’ve spent years charting out your inevitable, meteoric rise in the ranks. And now you’ve cast your net and are already on the way up. Gain the Trademark(+):Always have a Plan B
+One of your best friends threw you under the bus to land a position you wanted. By the time you got hired on, they were already promoted.Gain them as a contact. Gain the Trademark(-):Rival
+Your friend knew a guy who knew a guy whose sister-in-law got you your first real job, solidifying in your mind the need to network. Gain the Trademark(+): All the Right Friends
+You’ve always been an avid note-taker. It came in very handy at an interview, when you noticed a small detail in a ledger that no one else had. Gain the Trademark(+):Devil in the Details
+You were a small-time criminal, and someone needed a special package delivered. You discovered that corporations pay really well for plausible deniability. Gain the Trademark(-):Crime Does Pay
+You became friends with a powerful and important person. Is your relationship with them still solid? Gain a MegaCorp Contact. Gain the Trademark(+):Silver Spoon
+A woman in a conservative suit approaches you one day and reveals what really happened to someone that you loved. Then she asks what you want to do about it. Defect to a new group. Gain the Trademark(-):Traitor
+You were detained by NAPD. Although ultimately exonerated, your records are still notated from the incident. Gain the Trademark(-):Stained Record
+Your parents or guardians were unexpectedly fired by their corporate employers and blacklisted. Reduce Social Status by 2. Gain the Trademark(-):Hate <MegaCorp>
+A distant family member died and unexpectedly named you their executor. Their recordkeeping was atrocious, though, and their weird debts keep coming back to haunt you. Gain the Trademark(-):Unexpected Obligations
+Trying to live up to your hero’s expectations, you wound up hospitalised for a year. What happened? Gain the Trademark(-):Crushing Expectations
+A MegaCorp singles you out as someone with potential. Increase social status by 1. Gain the Trademark(-):Vainglorious 
+True or not, your family is believed to have betrayed a MegaCorp. Now that you’ve come of age, that stigma is yours to bear. Decrease your social status by 1. Gain the Trademark(-): Diehard Loyalist
+You wake up to find your parents disappeared in the middle of the night; you’re told they were recruited to a MegaCorp for a top secret project. Gain Contact "Parents". Gain the Trademark(-):Divided Loyalties.
+Your logical mind attracts a prominent academic mentor. Gain Contact Academic. Gain the Trademark(+): Bookworm
+One of your mentors is murdered. Their family suspects Assassins, the NAPD is questioning the MegaCorps, and OrgCrime blames the Street Gangs. Only you know the truth. Why did you do it? Gain the Trademark(-):Vengeful

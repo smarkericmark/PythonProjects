@@ -1,0 +1,20 @@
+You excelled at a particular skill from a very young age. You could have been a talented musician or a math whiz. Regardless, your talent got a some attention in the media but your low social status prevented you from climbing to great heights. Increase Social Status by 1 and gain 5,000 Credits. Gain the Trademark(-):Bitter 
+Both your parents died in a mysterious accident. You were sent to an orphanage. Reduce Social Status by one. Gain Trademark(-):Orphan
+You messed up and were arrested for a minor crime and spent time in jail. Gain the Trademark(-):Criminal Record
+Due to poor living conditions your body has become intolerant to chemical substances. Gain the Trademark(-):Cheap Drunk
+You had an imaginary friend. Nobody else could see them, but you went on grand Net adventures together. Now you see hints of your imaginary friend when you’re online. Gain the Trademark(+):Rogue AI Ally
+Your parents or guardians became radical converts to a religion. Was your time with their church a happy one? Gain the Trademark(-):Religious Upbringing
+You spent most of your free time as an urban spelunker, exploring the ruins and hidden places. What was the most unusual place you went? Gain the Trademark(-):Killer Curiosity
+After finding an injured animal, you nursed it back to health. Gain Trademark(-):Bleeding Heart for Animals
+You fell in with a bad crowd. Who was your worst “friend” from those days? Gain the Trademark(-):Shady Past
+You became a local champion in your sport of choice. There was talk about going pro. Unfortunately that did not happen. Gain the Trademark(-):Nagging Injury
+An unexpected boon, random chance, or personal merit allowed you to transfer into an elite training academy. Increase your social status by 1. Gain the Trademark(-):Overconfident
+You and group of kids committed a serious crime. Your low social status meant all the blame fell on you. You spent time in jail as a result. Gain the Trademark(-):Criminal Record
+A school trip to the University captured your imagination and motivated. Increase your social status by 2. Gain the Trademark(-): Insatiably Curious
+Chasing thrills, you snuck out to a Hopper Race. Turns out, races weren’t the worst the crew got up to. Gain the Trademark(+):Powerful Friends in Low Places
+Your childhood crush got accepted into GlobelSec's prestigious Mercenary training program. Before you were parted, you swore to stay in touch. Gain Contact GlobelSec Mercneary. Gain the Trademark(-):Hopeless Romantic
+Washed out of university, burned out of your apprenticeship, and banned from re-entering the corporate enclave. You and rules had a strained relationship. Reduce Social status by 1. Gain the Trademark(-):Rebel Heart
+You ran away from home and joined a Merc Company or Street Gang. Gain the Trademark(-):Traumatic Memories
+There wasn’t supposed to be any fighting nearby, yet Corp factions clashed,injurying you in the crossfire. Waking up, you realized that in corporate war, the people always lose. Gain the Trademark(-):Anti-Corp
+Dragnet caught you trying to hack into a Bank. But instead of throwing you in jail, they simply made some introductions. Gain the Trademark(-):Known Black Hat
+You participated in MegaCorp-sponsored research. Add a word after prototype to descirbe your improvement. Gain the Trademark(+):Prototype <<>>

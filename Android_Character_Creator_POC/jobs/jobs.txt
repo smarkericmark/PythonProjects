@@ -1,0 +1,18 @@
+=================
+Disenfrancisto=
+===============
+UnemployedStart
+Lab Rat
+Toxic Waste Cleaner
+Scrounger
+Pick Pocket
+Pan Handler
+Drug Addict
+Low Rent Worker
+UnemployedEnd
+
+SoldierStart
+Sjob1
+Sjob3
+Sjob2
+SoldierEnd

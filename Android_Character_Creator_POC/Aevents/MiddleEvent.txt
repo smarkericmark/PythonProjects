@@ -1,0 +1,21 @@
+"You ran away from home. Gain the Trademark(-): Low Self-Esteem. Decrease your Social Status by one."
+"You were taken from your home at 4am. You heard shots and never saw your family again.  Gain the Trademark(-): Lost Family. Decrease your Social Status by one."
+"Volunteering for “human tests” seemed like easy money. The physical scars healed, but you’ve never really learned to control your new “gift”.  Gain the Trademark(-): Rogue MetaChemistry.  Gain any G-Mod or Cyberware augmentation (tag)"
+"You joined a dark web hacker group and became obsessed with the infowarrior subculture. Gain the Trademark(-): Neophile. You may choose Hacker - SUBCLASS as your first career"
+"When you first signed up for school, a network glitch merged all of your records with someone else who shares your exact name. Your digital footprints have never been fully untangled. Gain the Trademark(-): Confused Identity"
+"Either you or your partner became pregnant. Gain the Trademark(-): Dependent. Gain a $30,000 debt."
+"You spent a summer painstakingly restoring a classic car. Gain the Trademark(+): Nostalgia Freak. You may take Roughneck - SUBCLASS as your first career"
+"It can be argued that the accident wasn’t your fault, but the courts
+didn’t see it that way. Gain the Trademark(-): Careless. Gain a $10,000 debt."
+"Your best friend joined the military. And then he was killed. You realised all this corporate jingoism doesn’t make any sense. Gain the Trademark(+): Judicious. You may switch your faction to Government at this time."
+"You suffered a terrible childhood accident. Gain the Trademark(-): Nagging Injury"
+"While training for different career paths, you destroyed a small mountain of equipment. Gain the Trademark(-): Bull in a China Shop. Gain an 25,000 debt but you may choose your first career"
+"Disaster struck, but it narrowly missed you as a Rescue Worker dragged you to safety. Gain the Trademark(-): Hero Worship. You may take Police - Emergancy Responder as your first career."
+"Even though it cost you most of your friends, you stood by your beliefs. Gain the Trademark(-): Stubborn"
+"Maybe you knew what you were getting into, maybe not; either way, you were caught helping a Silk smuggling ring, and the authorities were not amused. Either spend 1d6 years in jail before starting your first career, and gain the Trademark(-): Criminal Record or gain a $10,000 debt. You may choose Smugglar as your first career"
+"While snooping in cyberspace, you witnessed a serious hack. What happened? Who was responsible? Gain the Trademark(-): Paranoid. You may choose Hacker-Black Hat as your first career without gaining a Criminal Record."
+"Your insightful nature attracts the attention of XXX. Gain the Trademark(-): Free Spirit. Gain Contact XXX"
+"Your aunt was a top Merc in her time. When she decided to retire to an
+office, she left you access to her armory, though her legacy seems to weigh a lot more. Gain the Trademark(-): Weighty Legacy. You may chose all your weapons and armor at the start of the session without spending credits."
+"Enamoured with heroic tales of masked vigilantes, you tried your hand at crime fighting...or, as the courts called it, "reckless vigilantism." Time in jail did little to cool you off, however: now the crooks couldn't get away. Gain the Trademark(-): Loose Cannon. Anytime you get a Criminal Career during the career phase you can choose to reroll."
+

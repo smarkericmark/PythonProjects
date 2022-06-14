@@ -1,0 +1,20 @@
+You got involved in underground fight clubs at an early age. Increase Cash Flow by 200. Gain the Trademark(+):Street Fighter
+Facing the consequences of crimes you most assuredly did commit, someone offered to make it all go away and you let them. Trademark(-): Indebted to OrgCrime.
+Trapped in a dire situation, you didn’t see a way out—until a First Responder rescued you. You’ve been enamoured with them ever since. Increase your social status by 2. Gain the Trademark(+):Spirit of a Hero
+An accident left you needing cybernetic replacements; but the local clinic had to make do with what was on hand. Your Augmentation has some quirks, but you’ve learned how to squeeze the most out of it. Gain the Trademark(+):Cyberware Arm (Quirky)
+By yourself, or as part of gang, you raged against the machine. Change your faction to Street Gangs .Gain the Trademark(-):Rage Filled 
+You were entrusted with a weapon that’s had real use. It’s seen better days, but you know you can rely on it. Gain any Pistol. It rolls two additional damage dice. Gain the the Trademark(+):Heirloom Pistol
+You should have died, but you didn’t. Plenty of Disenfrancistos don’t believe in luck. But maybe it believes in you. Gain the Trademark(+):Lucky
+You were stabbed in the back; possibly literally. Gain the Trademark(-):Trust Issues
+Someone close to you was killed, while MegaCorp security forces stood and watched. Gain the Trademark(-): <MegaCorp> Vendetta
+You fell in with a rough crowd. Not everybody from that scene lived long. Gain the Trademark(-):Fatalistic
+Your supposed best friend stabbed you in the back while you were at your most vulnerable. Gain the Trademark(-): Suspicious
+While trying out new drug concoctions with your friends, you had a nasty interaction from which you never quite recovered. A cure exists, but it will cost 30,000 credits. Gain the the Trademark(-):Scorched Immune System
+Other kids might have had playground equipment: you had abandoned buildings to use as a jungle gym. Gain the Trademark(+): Parkour
+You volunteered for an experimental neural augmentation procedure. They say they’ll have the bugs worked out any day now. Gain Trademark(-):Glitchy Neural Aug
+Fed up with your home life, you stole a Hopper and went joyriding. Did they ever catch you? Gain the Trademark(-):Reckless
+You were beaten within an inch of your life, but they couldn’t make you stay down. Gain the Trademark(-): Stubborn."
+You get accepted into the NA University’s prestigious School of Law, an honour you can’t possibly afford. That is, until you’re made an offer you can’t refuse. Gain an OrgCrime contact. Increase your Social Status by 2. Gain the Trademark(+):OrgCrime Connections
+You fell in with a group of anarchist hackers, taking pot shots at the Weyland MegaCorp. An SysOp—found you and sorched your friends. They let you escape, declining to explain why. Gain the Trademark(-):Person of Interest
+You became heavily involved in the True Crime scene. Gain the Trademark(+):Sleuth
+Rebuffed by your lack of choices, you are not accepted into any Universities or able to get a job.  Are you disappointed? Relieved? Gain the Trademark(-):Undeachiver
