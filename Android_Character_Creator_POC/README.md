@@ -1,0 +1,1 @@
+Making a character in a TTRPG is a lot of math. I am working on this script to make it feel more fun and less number crunchy. When it is done I plan on making it a Discord Bot and getting it set up as a website. 
